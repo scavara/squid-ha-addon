@@ -1,2 +1,1 @@
-# squid-ha-addon
-WIP
+# Home Assistant Add-on: Squid Proxy

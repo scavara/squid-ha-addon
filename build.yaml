@@ -1,0 +1,6 @@
+---
+build_from:
+  aarch64: distahl/squid:bookworm-arm64v8
+  amd64: distahl/squid:bookworm
+  armhf: distahl/squid:bookworm-arm32v7
+  armv7: distahl/squid:bookworm-arm32v7
